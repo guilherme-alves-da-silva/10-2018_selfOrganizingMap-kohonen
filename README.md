@@ -1,4 +1,4 @@
-# selfOrganizingMap_kohonen
+# selfOrganizingMap-kohonen
 
 From october 2018
 
